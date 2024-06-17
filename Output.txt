@@ -1,0 +1,69 @@
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter employee name: Chirudeep
+Enter employee ID: 478
+Enter employee department: HR
+Employee added successfully!
+
+
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 1
+Enter employee name: Lokesh
+Enter employee ID: 488
+Enter employee department: IT
+Employee added successfully!
+
+
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 2
+List of all employees:
+Employee{name='Chirudeep', id=478, department='HR'}
+Employee{name='Lokesh', id=488, department='IT'}
+
+
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 3
+Enter employee ID to update: 488
+Enter new name for employee: Loki
+Enter new department for employee: Finance
+Employee details updated successfully!
+
+
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 4
+Enter employee ID to delete: 488
+Employee with ID 488 deleted successfully!
+
+
+Employee Management Application
+1. Add Employee
+2. View All Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Enter your choice: 5
